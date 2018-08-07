@@ -1,0 +1,9 @@
+Projemin exe dosya 3.Madde klasöründedir.
+Cs dosya Form1.csdir.Exe adý ProjeDenemedir
+
+Kullandýðým emgucv sürümü emgucv x64-cuda 3.2.0.2682
+
+Ýlk olarak resim yüklememiz gerekir.3.madde klasöründe resim vardýr.
+
+
+Eðer projenin exe çalýþtýrdýðýnda EmguCv.Invoke hatasý verirse.Bu proje benim bilgisayarýmda çalýþýyor.Onemli dll dosyalarýný yükledim.Rapor bölümünde projenin çýktýlarý vardýr.Kullanýdýðým Dll dosyarýda vardýr.
